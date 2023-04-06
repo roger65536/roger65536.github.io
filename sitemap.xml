@@ -2,22 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://roger65536.github.io/docs/tech/blog/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/categories/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://roger65536.github.io/docs/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://roger65536.github.io/series/guide/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/tags/hugo/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/docs/tech/blog/hugo/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
     <loc>https://roger65536.github.io/docs/introduction/</loc>
@@ -29,25 +17,10 @@
     <loc>https://roger65536.github.io/series/</loc>
     <lastmod>2022-09-06T22:42:23+08:00</lastmod>
   </url><url>
-    <loc>https://roger65536.github.io/tags/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/docs/tech/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/series/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
-    <loc>https://roger65536.github.io/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-09-06T22:42:23+08:00</lastmod>
-  </url><url>
     <loc>https://roger65536.github.io/authors/</loc>
+    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
+  </url><url>
+    <loc>https://roger65536.github.io/categories/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
     <loc>https://roger65536.github.io/tags/crop/</loc>
@@ -77,6 +50,9 @@
     <loc>https://roger65536.github.io/authors/razonyang/</loc>
     <lastmod>2022-07-08T11:34:47+08:00</lastmod>
   </url><url>
+    <loc>https://roger65536.github.io/tags/</loc>
+    <lastmod>2022-07-08T11:34:47+08:00</lastmod>
+  </url><url>
     <loc>https://roger65536.github.io/blog/</loc>
     <lastmod>2022-04-17T16:35:29+08:00</lastmod>
   </url><url>
@@ -93,6 +69,8 @@
   </url><url>
     <loc>https://roger65536.github.io/archives/</loc>
   </url><url>
+    <loc>https://roger65536.github.io/docs/tech/blog/</loc>
+  </url><url>
     <loc>https://roger65536.github.io/contact/</loc>
   </url><url>
     <loc>https://roger65536.github.io/docs/tech/mql/</loc>
@@ -100,5 +78,7 @@
     <loc>https://roger65536.github.io/offline/</loc>
   </url><url>
     <loc>https://roger65536.github.io/search/</loc>
+  </url><url>
+    <loc>https://roger65536.github.io/docs/tech/</loc>
   </url>
 </urlset>
